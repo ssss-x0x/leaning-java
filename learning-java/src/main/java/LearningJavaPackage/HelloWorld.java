@@ -1,4 +1,4 @@
-package main.java.LeaningJavaPackage;
+package main.java.LearningJavaPackage;
 
 public class HelloWorld {
     public static void main(String[] args) {
